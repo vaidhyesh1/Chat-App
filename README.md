@@ -1,4 +1,4 @@
-# Chat-App
+# Cluster Chat Application
 # INTRODUCTION:
 There are numerous products available that allow for real time “chatting” over the Internet.
 The purpose of this project is to implement a multi-platform based chat application that will allow users with an internet connection to engage in private and public conversations.
