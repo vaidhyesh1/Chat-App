@@ -25,31 +25,31 @@ However the basic interface available in our application is
     * Internet or LAN connection.
     * Keyboard
     * Smartphone /pc
-# SOFTWARE INTERFACE:
-Notepad++ is a text editor and source code editor and provides an environment for developing HTML, jsp, JavaScript many other editing purposes.
-Coding done in java so required JDK 1.4 and above for run java programs.
-Operating system (such as window 7, 8, xp, Linux etc).
+## SOFTWARE INTERFACE:
+* Notepad++ is a text editor and source code editor and provides an environment for developing HTML, jsp, JavaScript many other editing purposes.
+* Coding done in java so required JDK 1.4 and above for run java programs.
+* Operating system (such as window 7, 8, xp, Linux etc).
 # CONSTRAINTS:
 The application does not by any means open the web browser. If user wishes to open the web browser he must open it externally.
 The system need to be permanent connected with internet.
 Clients should know each other.
 # FUNCTIONAL REQUIREMENTS
-# Login Menu 
+## Login Menu 
 This functional requirement is for prompting the user with the option to register for the chat application, logging in, or exit the program. It will take the form of a GUI Register function(APP aspect) : This aspect of the login menu will ask the user for the name, username, and password of the client. It will check if the username has been taken and will close if the username is not taken and will go back to the main login menu.
-# Login function(APP aspect) 
+## Login function(APP aspect) 
 This aspect will ask for the username and password. Errors will occur if a space is left blank, the username doesn’t exist, or the password doesn’t match with the username. If the username and password matches, you are online and able to message anyone else online.
-# Exit(APP aspect)
+## Exit(APP aspect)
 This aspect will close the chat application. Online Menu function This function will give the option of seeing who is online, the option of sending a message to whoever is online, and the option to logout. Send a message: This aspect will give the user the ability to send a message to whoever they want who is online and selected by the user. 
-# Logout(Online Menu aspect)
+## Logout(Online Menu aspect)
 This aspect will give the option to logout of the chat application and will go back to the login menu..
-# Broadcast Message
+## Broadcast Message
 User should be able to create groups of contacts. User should be able to broadcast messages to these groups. Message Status : User must be able to get information on whether the message sent has been read by the intended recipient. 
 # NON FUNCTIONAL  REQUIREMENTS
-# Scalability 
+## Scalability 
 CHAT App should be able to provide instant messaging services to all users at any given time.
-# Privacy 
+## Privacy 
 Messages shared between users should be encrypted to maintain privacy. (not possible because we aren’t able to host a server)
-# Robustness 
+## Robustness 
 In case user’s device crashes, a backup of their chat history must be stored on remote database servers to enable recoverability.
-# Performance 
-Application must be lightweight and must send messages instantly.
+## Performance 
+Application is extremely lightweight and sends messages instantly.
