@@ -1,5 +1,5 @@
 # Cluster Chat Application
-# INTRODUCTION:
+# INTRODUCTION
 There are numerous products available that allow for real time “chatting” over the Internet.
 The purpose of this project is to implement a multi-platform based chat application that will allow users with an internet connection to engage in private and public conversations.
 The development of this project centered on the development of a message protocol that would allow the application to properly log in users, send messages, and manage groups and profile.
@@ -14,17 +14,17 @@ Unlimited clients: number of users can be connected without any performance degr
 # INTERFACE:
 This application interacts with the user through G.U.I. The interface is simple , easy to handle and self-explanatory.
 Once opened, user will easily come into the flow with the application and easily uses all interfaces properly.
-However the basic interface available in our application is:
-Title panel
-Content panel
-Profile panel.
-HARDWARE INTERFACE: 
-Minimum requirements :
-128 MB RAM required.
-Processor with speed of 500 MHz.
-Internet or LAN connection.
-Keyboard
-Smartphone /pc
+However the basic interface available in our application is
+* Title panel
+* Content panel
+* Profile panel.
+## HARDWARE INTERFACE: 
+* Minimum requirements :
+    * 128 MB RAM required.
+    * Processor with speed of 500 MHz.
+    * Internet or LAN connection.
+    * Keyboard
+    * Smartphone /pc
 # SOFTWARE INTERFACE:
 Notepad++ is a text editor and source code editor and provides an environment for developing HTML, jsp, JavaScript many other editing purposes.
 Coding done in java so required JDK 1.4 and above for run java programs.
